@@ -1,0 +1,9 @@
+html, body{
+    height: 100%;
+}
+*{
+    box-sizing: border-box;
+}
+body{
+    background-color: #7cb0ca;
+}
